@@ -1,2 +1,5 @@
 # gravity_inertia_oscillator
-This repository solves equations for a 1D gravity-intertia oscillator with treatment of viscous boundary layer.
+
+This repository contains the code for solving the equations for the reduced model in Liang et al., 2019, Part I, submitted to JGR-Solid Earth. This reduced model is also used as the forward model for inversion carried out in Liang et al., 2019, Part II, submitted to JGR-Solid Earth. 
+
+This model captures fluid oscillation in a 2D radially symmetric conduit driven by the restoring force from gravity and reservoir stiffness. Fluid is assumed to be incompressible and viscous boundary layer is captured.
